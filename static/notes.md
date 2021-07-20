@@ -1,6 +1,9 @@
-# Marx Notes — Capital Book I: The Process of Production of Capital
+Marx — Capital Book I: The Process of Production of Capital
+============================================================
 
-## Part One: Commodities and Money
+
+Part One: Commodities and Money
+--------------------------------
 
 ### Chapter 1: The Commodity
 * 
@@ -25,7 +28,9 @@
 * 
 
 
-## Part Two: The Transformation of Money into Capital
+
+Part Two: The Transformation of Money into Capital
+----------------------------------------------------
 
 ### Chapter 4: The General Formula for Capital
 * Money takes the form of capital when it circulates in the form M-C-M', rather than C-M-C.
@@ -55,7 +60,9 @@
 * The value of labor-power is determined the same way as the value of any commodity: by considering what is necessary for its production. In the case of labor-power, it is a formula that takes into account how much resources are required for the subsistence of the laborer and his family, and also his training/education, divided by the number of days he is able to provide labor-power. If he is paid any less than this, the commodity (the man himself) will become deformed, functioning below capacity or even dying prematurely.
 
 
-## Part Three: The Production of Absolute Surplus-Value
+
+Part Three: The Production of Absolute Surplus-Value
+----------------------------------------------------
 
 ### Chapter 7: The Labor Process and the Valorization Process
 #### I. The Labor Process
@@ -202,6 +209,10 @@
     3. Any variation in value and surplus value produced by a quantity of capital is due to the variable capital (labor) component, as the constant capital will merely pass its value to the products.
 * 
 
+
+
+Part Four: The Production of Relative Surplus-Value
+---------------------------------------------------
 
 ### Chapter 12: The Concept of Relative Surplus-Value
 * It is thought that necessary labor is a fixed quantity, and that surplus labor and therefore surplus value can only be increased by lengthening the working day.
