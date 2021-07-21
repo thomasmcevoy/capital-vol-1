@@ -19,17 +19,26 @@ export default {
 
 <style>
 *,*:before,*:after{
-    box-sizing:border-box;
-    font-feature-settings:"kern";
-    -webkit-font-kerning:normal;
-    font-kerning:normal;
-    -moz-osx-font-smoothing:grayscale !important;
-    -webkit-font-smoothing:antialiased !important
+  box-sizing:border-box;
+  font-feature-settings:"kern";
+  -webkit-font-kerning:normal;
+  font-kerning:normal;
+  -moz-osx-font-smoothing:grayscale !important;
+  -webkit-font-smoothing:antialiased !important
 }
 
 body {
   background-color: rgb(246, 246, 246);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+#app {
+  margin: 5vh 1vw;
+}
+
+#container {
+  max-width: 1100px;
+  margin: auto;
 }
 
 h1 {
@@ -80,7 +89,7 @@ ul {
 li {
   color: rgb(70, 70, 70);
   font-family: "Georgia", "Garamond", "Times", serif;
-  font-size: clamp(1.125rem, 2.15vw, 2rem);
+  font-size: clamp(1.125rem, 2.15vw, 1.5rem);
   font-weight: 300;
   letter-spacing: .01em;
   line-height: 1.5em;
@@ -105,10 +114,5 @@ em {
   color: rgb(34, 34, 34);
   font-style: italic;
   font-weight: 600;
-}
-
-#container {
-    margin: 5vh 1vw;
-    overflow: hidden;
 }
 </style>
